@@ -13,9 +13,9 @@ Electron - https://www.electronjs.org/
 Example App - https://www.freecodecamp.org/news/building-an-electron-application-with-create-react-app-97945861647c/  
 
 ## State Management
-Redux - https://redux.js.org/introduction/getting-started
-Redux Tutorials - https://egghead.io/series/getting-started-with-redux
-Redux Tutorial Course Notes - https://github.com/tayiorbeii/egghead.io_redux_course_notes
+Redux - https://redux.js.org/introduction/getting-started  
+Redux Tutorials - https://egghead.io/series/getting-started-with-redux  
+Redux Tutorial Course Notes - https://github.com/tayiorbeii/egghead.io_redux_course_notes  
 
 ## Testing Frameworks
 Jest Repo - https://github.com/testing-library/jest-dom
