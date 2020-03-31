@@ -7,6 +7,7 @@ Tutorial - https://reactjs.org/tutorial/tutorial.html
 
 Switch Case with Props - https://www.robinwieruch.de/conditional-rendering-react#conditional-rendering-in-react-switch-case  
 Pass Props to Components - https://www.robinwieruch.de/react-pass-props-to-component#what-are-props-in-react
+Casing Conventions - https://levelup.gitconnected.com/2-simple-effective-react-file-naming-convention-tips-cce1022328a8
 
 ## Electron - Desktop Publishing
 Electron - https://www.electronjs.org/  
