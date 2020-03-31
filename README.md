@@ -9,6 +9,9 @@ Switch Case with Props - https://www.robinwieruch.de/conditional-rendering-react
 Pass Props to Components - https://www.robinwieruch.de/react-pass-props-to-component#what-are-props-in-react
 Casing Conventions - https://levelup.gitconnected.com/2-simple-effective-react-file-naming-convention-tips-cce1022328a8
 
+## Layout 
+Reusable Layouts - https://medium.com/javascript-in-plain-english/how-to-build-reusable-layouts-in-react-js-daf8adcbca79
+
 ## Electron - Desktop Publishing
 Electron - https://www.electronjs.org/  
 Example App - https://www.freecodecamp.org/news/building-an-electron-application-with-create-react-app-97945861647c/  
