@@ -12,6 +12,7 @@ Casing Conventions - https://levelup.gitconnected.com/2-simple-effective-react-f
 ## Electron - Desktop Publishing
 Electron - https://www.electronjs.org/  
 Example App - https://www.freecodecamp.org/news/building-an-electron-application-with-create-react-app-97945861647c/  
+Create React - https://www.codementor.io/@randyfindley/how-to-build-an-electron-app-using-create-react-app-and-electron-builder-ss1k0sfer
 
 ## State Management
 Redux - https://redux.js.org/introduction/getting-started 
