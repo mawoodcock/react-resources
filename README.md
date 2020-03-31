@@ -25,4 +25,6 @@ Fetch Data into Redux - https://daveceddia.com/where-fetch-data-redux/
 Jest Repo - https://github.com/testing-library/jest-dom  
 Jest - https://testing-library.com/docs/ecosystem-jest-dom
 
-## Tutorials
+## Webpack/Babel/ES6
+
+https://ccoenraets.github.io/es6-tutorial-react/setup/
