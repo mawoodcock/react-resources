@@ -16,6 +16,7 @@ Create React - https://www.codementor.io/@randyfindley/how-to-build-an-electron-
 
 ## State Management
 Redux - https://redux.js.org/introduction/getting-started 
+Fetch Data into Redux - https://daveceddia.com/where-fetch-data-redux/
 
 ## Testing Frameworks
 Jest Repo - https://github.com/testing-library/jest-dom
