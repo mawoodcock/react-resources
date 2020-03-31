@@ -15,7 +15,7 @@ Example App - https://www.freecodecamp.org/news/building-an-electron-application
 Create React - https://www.codementor.io/@randyfindley/how-to-build-an-electron-app-using-create-react-app-and-electron-builder-ss1k0sfer
 
 ## State Management
-Redux - https://redux.js.org/introduction/getting-started 
+Redux - https://redux.js.org/introduction/getting-started  
 Fetch Data into Redux - https://daveceddia.com/where-fetch-data-redux/
 
 ## Testing Frameworks
