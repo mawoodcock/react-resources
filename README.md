@@ -19,6 +19,7 @@ https://styled-components.com/
 Electron - https://www.electronjs.org/  
 Example App - https://www.freecodecamp.org/news/building-an-electron-application-with-create-react-app-97945861647c/  
 Create React - https://www.codementor.io/@randyfindley/how-to-build-an-electron-app-using-create-react-app-and-electron-builder-ss1k0sfer
+Adding to project - https://medium.com/@kitze/%EF%B8%8F-from-react-to-an-electron-app-ready-for-production-a0468ecb1da3
 
 ## State Management
 Redux - https://redux.js.org/introduction/getting-started  
