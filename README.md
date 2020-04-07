@@ -18,7 +18,7 @@ https://styled-components.com/
 ## Electron - Desktop Publishing
 Electron - https://www.electronjs.org/  
 Example App - https://www.freecodecamp.org/news/building-an-electron-application-with-create-react-app-97945861647c/  
-Create React - https://www.codementor.io/@randyfindley/how-to-build-an-electron-app-using-create-react-app-and-electron-builder-ss1k0sfer 
+Create React - https://www.codementor.io/@randyfindley/how-to-build-an-electron-app-using-create-react-app-and-electron-builder-ss1k0sfer  
 Adding to project - https://medium.com/@kitze/%EF%B8%8F-from-react-to-an-electron-app-ready-for-production-a0468ecb1da3  
 Starter - https://medium.com/javascript-in-plain-english/how-to-create-your-first-app-with-electron-and-react-73243c87b622
 
