@@ -24,6 +24,7 @@ Starter - https://medium.com/javascript-in-plain-english/how-to-create-your-firs
 
 ## State Management
 Redux - https://redux.js.org/introduction/getting-started  
+Redux Tutorial - https://daveceddia.com/redux-tutorial/  
 Fetch Data into Redux - https://daveceddia.com/where-fetch-data-redux/
 
 ## Testing Frameworks
