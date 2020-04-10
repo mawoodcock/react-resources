@@ -31,6 +31,9 @@ Fetch Data into Redux - https://daveceddia.com/where-fetch-data-redux/
 Jest Repo - https://github.com/testing-library/jest-dom  
 Jest - https://testing-library.com/docs/ecosystem-jest-dom
 
+## Code Linter  
+Pretier - https://blog.reactnativecoach.com/format-code-style-with-prettier-in-react-native-1e10e6b7169f
+
 ## Webpack/Babel/ES6
 
 https://ccoenraets.github.io/es6-tutorial-react/setup/
