@@ -7,7 +7,8 @@ Tutorial - https://reactjs.org/tutorial/tutorial.html
 
 Switch Case with Props - https://www.robinwieruch.de/conditional-rendering-react#conditional-rendering-in-react-switch-case  
 Pass Props to Components - https://www.robinwieruch.de/react-pass-props-to-component#what-are-props-in-react
-Casing Conventions - https://levelup.gitconnected.com/2-simple-effective-react-file-naming-convention-tips-cce1022328a8
+Casing Conventions - https://levelup.gitconnected.com/2-simple-effective-react-file-naming-convention-tips-cce1022328a8 
+Presentational Components - https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0  
 
 ## Layout 
 Reusable Layouts - https://medium.com/javascript-in-plain-english/how-to-build-reusable-layouts-in-react-js-daf8adcbca79
